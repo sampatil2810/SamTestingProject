@@ -22,7 +22,7 @@ public class MobilePage
 	@FindBy (xpath ="(//p[text()='Shop Now'])[5]")
 	private WebElement shopnowtab5;
 	
-	
+	private WebElement sumit;
 	
 	
 //	public MobilePage(WebDriver driver)
