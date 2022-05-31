@@ -25,27 +25,27 @@ public class MobilePage
 	
 	
 	
-	public MobilePage(WebDriver driver)
-	{
-		PageFactory.initElements(driver, this);
-	}
-	
-	public void clickOnshopnowtab1()
-	{
-		shopnowtab1.click();
-	}
-	
-
-	public void clickOnshopnowtab2()
-	{
-		shopnowtab2.click();
-	}
-
-
-	public void clickOnshopnowtab3()
-	{
-		shopnowtab3.click();
-	}
+//	public MobilePage(WebDriver driver)
+//	{
+//		PageFactory.initElements(driver, this);
+//	}
+//	
+//	public void clickOnshopnowtab1()
+//	{
+//		shopnowtab1.click();
+//	}
+//	
+//
+//	public void clickOnshopnowtab2()
+//	{
+//		shopnowtab2.click();
+//	}
+//
+//
+//	public void clickOnshopnowtab3()
+//	{
+//		shopnowtab3.click();
+//	}
 
 
 	public void clickOnshopnowtab4()
